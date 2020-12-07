@@ -1,12 +1,10 @@
 # 김정문
-더 나은 소프트웨어 품질을 위해 _노력_하는 개발자
-팀원들과 함께 _소통_하며 일하는 개발자
 
 ### 1. 인적사항(Personal Information)
 
  **이름:** 김정문(Kim Jung Mun)
 
- **생년월일:** 96.06.11
+ **생년월일:** 1996.06.11
 
  **사진**
  ![image](https://github.com/jungmun/jmpicture.git/jm.jpeg)
@@ -44,3 +42,6 @@
 
 ### 5. 연락처(Contact)
 email : 1591003@hansung.ac.kr
+
+더 나은 소프트웨어 품질을 위해 _노력_하는 개발자
+팀원들과 함께 _소통_하며 일하는 개발자
