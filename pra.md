@@ -7,7 +7,7 @@
  **생년월일:** 1996.06.11
 
  **사진**
- ![image](https://github.com/jungmun/jmpicture.git/jm.png)
+ ![image](https://github.com/jungmun/jmpicture/jm.png)
 
 
 ### 2. 학력 사항(Education)
