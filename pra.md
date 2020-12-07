@@ -7,7 +7,7 @@
  **생년월일:** 1996.06.11
 
  **사진**
- ![image](https://github.com/jungmun/jmpicture.git/jm.jpeg)
+ ![image](https://github.com/jungmun/jmpicture.git/jm.png)
 
 
 ### 2. 학력 사항(Education)
@@ -39,9 +39,8 @@
 ### 4. 어학 및 자격증(Certificate)
 | 자격증명 | 발급일자  | 발급기관|
 | :---         |     :---:      |         :---:   |   
+| 2종보통운전면허증| 2015.12 | 서울지방경찰청 |
 
 ### 5. 연락처(Contact)
 email : 1591003@hansung.ac.kr
 
-더 나은 소프트웨어 품질을 위해 _노력_하는 개발자
-팀원들과 함께 _소통_하며 일하는 개발자
